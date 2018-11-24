@@ -197,3 +197,39 @@ body {
     border-radius: 10px;
     width: 100px;
 }
+
+/* Footer */
+
+.social-margins {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.social-footer-uppercase {
+    text-transform: capitalize;
+}
+
+.social-links {
+    padding-top: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    color: #fffce9;
+    background: #0f0f0f00;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #3d3d40;
+}
+
