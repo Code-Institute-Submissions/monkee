@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/* Body Element */
+
+body {
+    background-color: #aaa;
+}
+
+/* Header Navigation */
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 10px !important;
+    letter-spacing: 8px;
+    opacity:0.9;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fffce9;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+.navbar-toggle:hover {
+    background-color: #b2b2b2;
+}
+
+.collapse {
+    display: none;
+}
+
+.collapse:target {
+    display: block;
+}
+
+.social-settings li a i {
+    width: 32px;
+    height: 32px;
+    padding-left: 8px;
+    padding-top: 12px;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    color: #fffce9;
+    background: #0f0f0f00;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-settings li a i:hover {
+    background: #111111;
+}
+
+.home-links {
+    color: #fffce9;
+    background: #0f0f0f00;
+    transition: all 0.35s ease-in-out;
+}
+
+.navbar-default .navbar-nav li a:hover {
+     background-color: #000000;
+}
+
+.bi {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 202px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.band-member:hover {
+      border-color: #ddd;
+}
+
+.collapse:target {
+    display: block;
+}
