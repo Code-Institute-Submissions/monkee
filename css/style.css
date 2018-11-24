@@ -344,3 +344,36 @@ audio, canvas, progress, video {
     margin-bottom: 20px;
 }
 
+/* Gallery */
+
+.gal-imge {
+    margin: auto;
+    width: 280px;
+    max-height: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.gallery-box-color {
+    background-color: #3a3a3c;
+    padding: 5vh 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.gal-marg-btm {
+    margin-bottom: 5px;
+}
+
+.thumbnail > a > img: { width: 100%; }
+     
+.thumbnail {
+    text-align: center;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
