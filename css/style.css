@@ -233,3 +233,60 @@ body {
     background: #3d3d40;
 }
 
+/* Music Page */
+
+.music-image {
+    width: 90%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.titleposition {
+    margin-top: 12vh;
+    margin-bottom: 20px;
+}
+
+.audiotitleposition {
+    text-align: center;
+}
+
+.aud-centre {
+    margin: auto;
+}
+
+.music-box {
+    background-color: #3a3a3c;
+    background: url("http://ultimateclassicrock.com/files/2017/01/more-of-alt.jpg?w=980&q=75") center/cover no-repeat;
+    opacity: 0.7;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.music-box-2 {
+    background-color: #3a3a3c;
+    background: url("https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/monkees_lead.jpg?itok=PPeT4ZI7&resize=1100x1100") center/cover no-repeat;
+    opacity:0.7;
+    padding-bottom: 10px;
+}
+
+.music-title-position {
+    margin-bottom: 10px;
+}
+
+.music-social-font {
+    font-family: 'Martel', serif;
+    color: #000;
+    font-size: 13px;
+    color: #d7d1c4;
+}
+
+.audio-centre {
+    text-align: center;
+}
+
+.title-font {
+    font-family: 'Martel', serif;
+    color: #fffce9;
+    text-shadow: 4px 4px 4px #1f284f;
+}
