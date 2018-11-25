@@ -8,8 +8,7 @@ potential fans, a brief story of there success, there iconic songs and videos, l
 ## UX
 
 Design is a black and white theme. This was to try and give it some authentic representation of there era in the 60's and 70's.
-Its designed to be easily read and navigated for both young and old. To begin with i did a mockup/wireframe using "pencil" of a rough guide
-to follow for the project which is [here](https://1drv.ms/u/s!AkgXke2DzmlNi1zMJqhMNbjp9EUD)
+Its designed to be easily read and navigated for both young and old. To begin with i did a mockup/wireframe using "pencil" which is [here](https://1drv.ms/u/s!AkgXke2DzmlNi1zMJqhMNbjp9EUD)
 
 Objectives:
 
