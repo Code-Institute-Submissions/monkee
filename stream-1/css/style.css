@@ -276,9 +276,7 @@ body {
 
 .music-social-font {
     font-family: 'Martel', serif;
-    color: #000;
-    font-size: 13px;
-    color: #d7d1c4;
+    text-transform: capitalize;
 }
 
 .audio-centre {
@@ -342,6 +340,10 @@ audio, canvas, progress, video {
 
 .audio-marg {
     margin-bottom: 20px;
+}
+
+.capitalize {
+    text-transform:capitalize;
 }
 
 /* Gallery */
