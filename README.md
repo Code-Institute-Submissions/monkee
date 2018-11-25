@@ -4,13 +4,12 @@ Milestone project - User Centric Frontend Development
 
 My intention is to provide a website of a band from the past and instil in the minds of its fans and 
 potential fans, a brief story of there success, there iconic songs and videos, links to there social networks.
-My mockup/wireframe i made for some ideas to the project i have done using "Pencil" which you can find [here}(https://www.bbc.co.uk/sport/rugby-union/live-scores)
-
 
 ## UX
 
 Design is a black and white theme. This was to try and give it some authentic representation of there era in the 60's and 70's.
-Its designed to be easily read and navigated for both young and old.
+Its designed to be easily read and navigated for both young and old. To begin with i did a mockup/wireframe using "pencil" of a rough guide
+to follow for the project which is [here](https://1drv.ms/u/s!AkgXke2DzmlNi1zMJqhMNbjp9EUD)
 
 Objectives:
 
