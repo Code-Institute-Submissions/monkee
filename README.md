@@ -65,7 +65,7 @@ Finally checked that on hover, the icon you hover changes color.
 
 ## Deployment
 
-Website is deployed to github pages, exactly at this link
+I have deployed the project onto [github pages](https://aledgriffiths79.github.io/monkee/)
 
 ## Credits
 
