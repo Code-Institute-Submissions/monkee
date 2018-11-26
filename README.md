@@ -41,7 +41,7 @@ An option to buy a cd/vinyl and merchandise
 + html- its the foundation to writing code for all websites
 + css- to implement different designs to elements from html code
 + [Bootstrap(3.3.7)](https://getbootstrap.com/docs/3.3/)
-+ [Font Awsome](https://fontawesome.com/)
++ [Font Awesome](https://fontawesome.com/)
     - social link icons
 + [Google Fonts](https://fonts.google.com/)
 
